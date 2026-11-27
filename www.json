@@ -1,8 +1,8 @@
 [
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x620",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x620",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19131300,
     "Offsets": [
       1568
     ],
@@ -15,9 +15,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x630",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x630",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19131300,
     "Offsets": [
       1584
     ],
@@ -30,9 +30,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x640",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x640",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19131300,
     "Offsets": [
       1600
     ],
@@ -45,9 +45,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x650",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x650",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19131300,
     "Offsets": [
       1616
     ],
@@ -60,9 +60,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x660",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x660",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19131300,
     "Offsets": [
       1632
     ],
@@ -75,9 +75,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x670",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x670",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19131300,
     "Offsets": [
       1648
     ],
@@ -90,9 +90,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x680",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x680",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19131300,
     "Offsets": [
       1664
     ],
@@ -105,9 +105,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x690",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x690",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19131300,
     "Offsets": [
       1680
     ],
@@ -120,15 +120,30 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123CDA0]\u002B0x38\u002B0x618",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123EBA4]\u002B0x6100",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19123616,
+    "ModuleOffset": 19131300,
+    "Offsets": [
+      24832
+    ],
+    "IsFrozen": true,
+    "FrozenValue": 256,
+    "NewValue": "256",
+    "Description": "azul9",
+    "IsProtected": true,
+    "IsInt": true,
+    "OverrideAddressValue": null
+  },
+  {
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x618",
+    "Module": "pointblank.exe",
+    "ModuleOffset": 19128000,
     "Offsets": [
       56,
       1560
     ],
     "IsFrozen": true,
-    "FrozenValue": 256,
+    "FrozenValue": null,
     "NewValue": "256",
     "Description": "red1",
     "IsProtected": true,
@@ -136,9 +151,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123CDA0]\u002B0x38\u002B0x628",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x628",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19123616,
+    "ModuleOffset": 19128000,
     "Offsets": [
       56,
       1576
@@ -152,9 +167,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123CDA0]\u002B0x38\u002B0x638",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x638",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19123616,
+    "ModuleOffset": 19128000,
     "Offsets": [
       56,
       1592
@@ -168,9 +183,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123CDA0]\u002B0x38\u002B0x648",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x648",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19123616,
+    "ModuleOffset": 19128000,
     "Offsets": [
       56,
       1608
@@ -184,9 +199,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123CDA0]\u002B0x38\u002B0x658",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x658",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19123616,
+    "ModuleOffset": 19128000,
     "Offsets": [
       56,
       1624
@@ -200,9 +215,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123CDA0]\u002B0x38\u002B0x668",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x668",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19123616,
+    "ModuleOffset": 19128000,
     "Offsets": [
       56,
       1640
@@ -216,9 +231,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123CDA0]\u002B0x38\u002B0x678",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x678",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19123616,
+    "ModuleOffset": 19128000,
     "Offsets": [
       56,
       1656
@@ -232,9 +247,9 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123CDA0]\u002B0x38\u002B0x688",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x688",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19123616,
+    "ModuleOffset": 19128000,
     "Offsets": [
       56,
       1672
@@ -248,64 +263,17 @@
     "OverrideAddressValue": null
   },
   {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DA84]\u002B0x618",
+    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x123DEC0]\u002B0x38\u002B0x698",
     "Module": "pointblank.exe",
-    "ModuleOffset": 19126916,
+    "ModuleOffset": 19128000,
     "Offsets": [
-      1560
+      56,
+      1688
     ],
-    "IsFrozen": false,
-    "FrozenValue": null,
+    "IsFrozen": true,
+    "FrozenValue": 256,
     "NewValue": "256",
-    "Description": "",
-    "IsProtected": true,
-    "IsInt": true,
-    "OverrideAddressValue": null
-  },
-  {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x12455CC]\u002B0x64\u002B0x618",
-    "Module": "pointblank.exe",
-    "ModuleOffset": 19158476,
-    "Offsets": [
-      100,
-      1560
-    ],
-    "IsFrozen": false,
-    "FrozenValue": null,
-    "NewValue": "256",
-    "Description": "",
-    "IsProtected": true,
-    "IsInt": true,
-    "OverrideAddressValue": null
-  },
-  {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x1245660]\u002B0x88\u002B0x618",
-    "Module": "pointblank.exe",
-    "ModuleOffset": 19158624,
-    "Offsets": [
-      136,
-      1560
-    ],
-    "IsFrozen": false,
-    "FrozenValue": null,
-    "NewValue": "256",
-    "Description": "",
-    "IsProtected": true,
-    "IsInt": true,
-    "OverrideAddressValue": null
-  },
-  {
-    "ChainString": "[\u0022pointblank.exe\u0022\u002B0x1245668]\u002B0x88\u002B0x618",
-    "Module": "pointblank.exe",
-    "ModuleOffset": 19158632,
-    "Offsets": [
-      136,
-      1560
-    ],
-    "IsFrozen": false,
-    "FrozenValue": null,
-    "NewValue": "256",
-    "Description": "",
+    "Description": "red9",
     "IsProtected": true,
     "IsInt": true,
     "OverrideAddressValue": null
